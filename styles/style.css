@@ -34,6 +34,7 @@
 }
 
 .header__title {
+  margin: 0;
   max-width: 730px;
   align-self: center;
   margin-left: 64px;
@@ -54,6 +55,7 @@
 }
 
 .subtitle {
+  margin: 0;
   line-height: 25px;
   font-size: 18px;
   z-index: 2;
@@ -152,6 +154,7 @@
 }
 
 .section-subtitle {
+  margin: 0;
   text-align: center;
   width: 60%;
   line-height: 34px;
